@@ -8,7 +8,7 @@ There are several useful solutions published by [PivotalServicesOss](https://git
 
 | Name | Project Site |
 | - | - |
-| [PivotalServices.WebApiTemplate.CSharp2](http://www.nuget.org/packages/PivotalServices.WebApiTemplate.CSharp2) | [Github](https://github.com/alfusinigoj/pivotal-webapi-template-csharp2) |
+| [PivotalServices.WebApiTemplate.CSharp2](http://www.nuget.org/packages/PivotalServices.WebApiTemplate.CSharp2) | [Github](https://github.com/alfusinigoj/webapi-template-csharp2) |
 | [PivotalServices.WebApiTemplate.CSharp](http://www.nuget.org/packages/PivotalServices.WebApiTemplate.CSharp) | [Github](https://github.com/CedricYao/pivotal-webapi-template-csharp) |
 
 #### ASP.NET Application Extensions
