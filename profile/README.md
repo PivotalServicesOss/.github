@@ -8,14 +8,14 @@ There are several useful solutions published by [PivotalServicesOss](https://git
 
 | Name | Project Site |
 | - | - |
-| [PivotalServices.WebApiTemplate.CSharp2](http://www.nuget.org/packages/PivotalServices.WebApiTemplate.CSharp2) | [Github](https://github.com/alfusinigoj/webapi-template-csharp2) |
+| [PivotalServices.WebApiTemplate.CSharp2](http://www.nuget.org/packages/PivotalServices.WebApiTemplate.CSharp2) | [Github](https://github.com/PivotalServicesOss/webapi-template-csharp2) |
 | [PivotalServices.WebApiTemplate.CSharp](http://www.nuget.org/packages/PivotalServices.WebApiTemplate.CSharp) | [Github](https://github.com/CedricYao/pivotal-webapi-template-csharp) |
 
 #### ASP.NET Application Extensions
 
 | Name | Project Site |
 | - | - |
-| [PivotalServices.AspNet.Bootstrap.Extensions](http://www.nuget.org/packages/PivotalServices.AspNet.Bootstrap.Extensions) | [Github](https://alfusinigoj.github.io/pivotal_aspnet_bootstrap_extensions/) |
+| [PivotalServices.AspNet.Bootstrap.Extensions](http://www.nuget.org/packages/PivotalServices.AspNet.Bootstrap.Extensions) | [Github](https://github.com/PivotalServicesOss/aspnet_bootstrap_extensions/) |
 
 #### Replatform ASP.NET Application to Cloud Foundry
 
