@@ -1,6 +1,6 @@
 ### PivotalServicesOss
 
-This organization is created by [Alfus Inigo Jaganathan](https://github.com/alfusinigoj) to collaborate with friends and colleagues, for creating and managing open source softwares and solutions useful for the community.
+This organization is created by [Alfus Inigo Jaganathan](https://github.com/alfusinigoj) and (friends & colleagues) to collaborate with each other, while creating and managing open source softwares and solutions useful for the community.
 
 There are several useful solutions published by [PivotalServicesOss](https://github.com/PivotalServicesOss) as [Nuget Packages](https://www.nuget.org/profiles/PivotalServicesOss), [Cloudfoundry Buildpacks](https://docs.cloudfoundry.org/buildpacks/), etc. Below are the details.
 
