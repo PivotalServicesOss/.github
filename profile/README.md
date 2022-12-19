@@ -21,10 +21,10 @@ There are several useful solutions published by [PivotalServicesOss](https://git
 
 | Name | Project Site |
 | - | - |
-| [PivotalServices.AspNet.Bootstrap.Extensions.Cf.Configuration](http://www.nuget.org/packages/PivotalServices.AspNet.Bootstrap.Extensions.Cf.Configuration) | [Github](https://alfusinigoj.github.io/pivotal_aspnet_bootstrap_cloudfoundry_extensions/#externalizing-configuration) |
-| [PivotalServices.AspNet.Bootstrap.Extensions.Cf.Logging](http://www.nuget.org/packages/PivotalServices.AspNet.Bootstrap.Extensions.Cf.Logging) | [Github](https://alfusinigoj.github.io/pivotal_aspnet_bootstrap_cloudfoundry_extensions/#enable-cloud-native-logging) |
-| [PivotalServices.AspNet.Bootstrap.Extensions.Cf.Redis.Session](http://www.nuget.org/packages/PivotalServices.AspNet.Bootstrap.Extensions.Cf.Redis.Session) | [Github](https://alfusinigoj.github.io/pivotal_aspnet_bootstrap_cloudfoundry_extensions/#persist-session-to-redis) |
-| [PivotalServices.AspNet.Bootstrap.Extensions.Cf.Actuators](http://www.nuget.org/packages/PivotalServices.AspNet.Bootstrap.Extensions.Cf.Actuators) | [Github](https://alfusinigoj.github.io/pivotal_aspnet_bootstrap_cloudfoundry_extensions/#enabling-cloud-foundry-actuators-and-metrics-forwarders) |
+| [PivotalServices.AspNet.Bootstrap.Extensions.Cf.Configuration](http://www.nuget.org/packages/PivotalServices.AspNet.Bootstrap.Extensions.Cf.Configuration) | [Github](https://github.com/PivotalServicesOss/aspnet_bootstrap_cloudfoundry_extensions/#externalizing-configuration) |
+| [PivotalServices.AspNet.Bootstrap.Extensions.Cf.Logging](http://www.nuget.org/packages/PivotalServices.AspNet.Bootstrap.Extensions.Cf.Logging) | [Github](https://github.com/PivotalServicesOss/aspnet_bootstrap_cloudfoundry_extensions/#enable-cloud-native-logging) |
+| [PivotalServices.AspNet.Bootstrap.Extensions.Cf.Redis.Session](http://www.nuget.org/packages/PivotalServices.AspNet.Bootstrap.Extensions.Cf.Redis.Session) | [Github](https://github.com/PivotalServicesOss/aspnet_bootstrap_cloudfoundry_extensions/#persist-session-to-redis) |
+| [PivotalServices.AspNet.Bootstrap.Extensions.Cf.Actuators](http://www.nuget.org/packages/PivotalServices.AspNet.Bootstrap.Extensions.Cf.Actuators) | [Github](https://github.com/PivotalServicesOss/aspnet_bootstrap_cloudfoundry_extensions/#enabling-cloud-foundry-actuators-and-metrics-forwarders) |
 | [Web.Config.Transform.Buildpack](https://github.com/cloudfoundry-community/web-config-transform-buildpack/releases) | [Github](https://github.com/cloudfoundry-community/web-config-transform-buildpack) |
 | [Pivotal.Redis.Aspnet.Session.Buildpack](https://github.com/cloudfoundry-community/redis-session-aspnet-buildpack/releases) | [Github](https://github.com/cloudfoundry-community/redis-session-aspnet-buildpack) | 
 
@@ -32,7 +32,7 @@ There are several useful solutions published by [PivotalServicesOss](https://git
 
 | Name | Project Site |
 | - | - |
-| [PivotalServices.AspNet.Auth.Extensions](https://www.nuget.org/packages/PivotalServices.AspNet.Auth.Extensions) | [Github](https://github.com/alfusinigoj/pivotal_aspnet_auth_extensions) |
+| [PivotalServices.AspNet.Auth.Extensions](https://www.nuget.org/packages/PivotalServices.AspNet.Auth.Extensions) | [Github](https://github.com/PivotalServicesOss/aspnet_auth_extensions) |
 | [PivotalServices.WcfClient.Kerberos.Interceptor](https://www.nuget.org/packages/PivotalServices.WcfClient.Kerberos.Interceptor) | [Github](https://github.com/cloudfoundry-community/kerberos-auth-egress-buildpack) |
 | [Pivotal.RouteService.Auth.Ingress.Buildpack](https://github.com/cloudfoundry-community/kerberos-auth-buildpack/releases) | [Github](https://github.com/cloudfoundry-community/kerberos-auth-buildpack) |
 | [Pivotal.RouteService.Auth.Egress.Buildpack](https://github.com/cloudfoundry-community/kerberos-auth-egress-buildpack/releases) | [Github](https://github.com/cloudfoundry-community/kerberos-auth-egress-buildpack) |
