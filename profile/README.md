@@ -9,7 +9,7 @@ There are several useful solutions published by [PivotalServicesOss](https://git
 | Name | Project Site |
 | - | - |
 | [PivotalServices.WebApiTemplate.CSharp2](http://www.nuget.org/packages/PivotalServices.WebApiTemplate.CSharp2) | [Github](https://github.com/PivotalServicesOss/webapi-template-csharp2) |
-| [PivotalServices.WebApiTemplate.CSharp](http://www.nuget.org/packages/PivotalServices.WebApiTemplate.CSharp) | [Github](https://github.com/CedricYao/pivotal-webapi-template-csharp) |
+| [PivotalServices.WebApiTemplate.CSharp](http://www.nuget.org/packages/PivotalServices.WebApiTemplate.CSharp) | [Github](https://github.com/PivotalServicesOss/webapi-template-csharp) |
 
 #### ASP.NET Application Extensions
 
@@ -25,18 +25,15 @@ There are several useful solutions published by [PivotalServicesOss](https://git
 | [PivotalServices.AspNet.Bootstrap.Extensions.Cf.Logging](http://www.nuget.org/packages/PivotalServices.AspNet.Bootstrap.Extensions.Cf.Logging) | [Github](https://github.com/PivotalServicesOss/aspnet_bootstrap_cloudfoundry_extensions/#enable-cloud-native-logging) |
 | [PivotalServices.AspNet.Bootstrap.Extensions.Cf.Redis.Session](http://www.nuget.org/packages/PivotalServices.AspNet.Bootstrap.Extensions.Cf.Redis.Session) | [Github](https://github.com/PivotalServicesOss/aspnet_bootstrap_cloudfoundry_extensions/#persist-session-to-redis) |
 | [PivotalServices.AspNet.Bootstrap.Extensions.Cf.Actuators](http://www.nuget.org/packages/PivotalServices.AspNet.Bootstrap.Extensions.Cf.Actuators) | [Github](https://github.com/PivotalServicesOss/aspnet_bootstrap_cloudfoundry_extensions/#enabling-cloud-foundry-actuators-and-metrics-forwarders) |
-| [Web.Config.Transform.Buildpack](https://github.com/cloudfoundry-community/web-config-transform-buildpack/releases) | [Github](https://github.com/cloudfoundry-community/web-config-transform-buildpack) |
-| [Pivotal.Redis.Aspnet.Session.Buildpack](https://github.com/cloudfoundry-community/redis-session-aspnet-buildpack/releases) | [Github](https://github.com/cloudfoundry-community/redis-session-aspnet-buildpack) | 
 
 #### Windows Authentication in Cloud Foundry hosted ASP.NET Application
 
 | Name | Project Site |
 | - | - |
 | [PivotalServices.AspNet.Auth.Extensions](https://www.nuget.org/packages/PivotalServices.AspNet.Auth.Extensions) | [Github](https://github.com/PivotalServicesOss/aspnet_auth_extensions) |
-| [PivotalServices.WcfClient.Kerberos.Interceptor](https://www.nuget.org/packages/PivotalServices.WcfClient.Kerberos.Interceptor) | [Github](https://github.com/cloudfoundry-community/kerberos-auth-egress-buildpack) |
-| [Pivotal.RouteService.Auth.Ingress.Buildpack](https://github.com/cloudfoundry-community/kerberos-auth-buildpack/releases) | [Github](https://github.com/cloudfoundry-community/kerberos-auth-buildpack) |
-| [Pivotal.RouteService.Auth.Egress.Buildpack](https://github.com/cloudfoundry-community/kerberos-auth-egress-buildpack/releases) | [Github](https://github.com/cloudfoundry-community/kerberos-auth-egress-buildpack) |
+| [PivotalServices.WcfClient.Kerberos.Interceptor](https://www.nuget.org/packages/PivotalServices.WcfClient.Kerberos.Interceptor) | [Github](https://github.com/PivotalServicesOss/kerberos-auth-egress-wcf-client-interceptor) |
+| [Pivotal.RouteService.Auth.Egress.Buildpack](https://github.com/cloudfoundry-community/kerberos-auth-egress-buildpack/releases) | [Github](https://github.com/PivotalServicesOss/kerberos-auth-egress-buildpack) |
 
 #### Want to a collaborator as well?
 
-Please send an email to [pivotalservicesoss](mailto:pivotalservicesoss@gmail.com), containing you github handle and profile.
+Please send an email to [pivotalservicesoss@gmail.com](mailto:pivotalservicesoss@gmail.com), with your github handle and basic profile details.
