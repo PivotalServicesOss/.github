@@ -1,8 +1,6 @@
 ### PivotalServicesOss
 
-This organization is created by [Alfus Inigo Jaganathan](https://github.com/alfusinigoj) and his (friends & colleagues) to collaborate with each other, while creating and managing open source softwares and solutions useful for the community.
-
-There are several useful solutions published by [PivotalServicesOss](https://github.com/PivotalServicesOss) as [Nuget Packages](https://www.nuget.org/profiles/PivotalServicesOss), [Cloudfoundry Buildpacks](https://docs.cloudfoundry.org/buildpacks/), etc. Below are the details.
+Below are several useful solutions published by [PivotalServicesOss](https://github.com/PivotalServicesOss) as [Nuget Packages](https://www.nuget.org/profiles/PivotalServicesOss), [Cloudfoundry Buildpacks](https://docs.cloudfoundry.org/buildpacks/), etc.
 
 #### ASP.NET Templates (dotnet new)
 
@@ -10,6 +8,12 @@ There are several useful solutions published by [PivotalServicesOss](https://git
 | - | - |
 | [PivotalServices.WebApiTemplate.CSharp2](http://www.nuget.org/packages/PivotalServices.WebApiTemplate.CSharp2) | [Github](https://github.com/PivotalServicesOss/webapi-template-csharp2) |
 | [PivotalServices.WebApiTemplate.CSharp](http://www.nuget.org/packages/PivotalServices.WebApiTemplate.CSharp) | [Github](https://github.com/PivotalServicesOss/webapi-template-csharp) |
+
+#### Moq Extensions
+
+| Name | Project Site |
+| - | - |
+| [PivotalServices.MoqExtensions.DataReader](https://www.nuget.org/packages/PivotalServices.MoqExtensions.DataReader) | [Github](https://github.com/PivotalServicesOss/moq_datareader) |
 
 #### ASP.NET Application Extensions
 
