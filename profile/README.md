@@ -22,6 +22,15 @@ Below are several useful solutions published by [PivotalServicesOss](https://git
 | - | - |
 | [PivotalServices.MoqExtensions.DataReader](https://www.nuget.org/packages/PivotalServices.MoqExtensions.DataReader) | [Github](https://github.com/PivotalServicesOss/moq_datareader) |
 
+#### Kerberos Authentication
+
+| Name | Project Site |
+| - | - |
+| [PivotalServices.Kerberos.Client.Manager](https://www.nuget.org/packages/PivotalServices.Kerberos.Client.Manager/) | [Github](https://github.com/PivotalServicesOss/kerberos-auth-dotnet-extension) |
+| [PivotalServices.AspNet.Auth.Extensions](https://www.nuget.org/packages/PivotalServices.AspNet.Auth.Extensions) | [Github](https://github.com/PivotalServicesOss/aspnet_auth_extensions) |
+| [PivotalServices.WcfClient.Kerberos.Interceptor](https://www.nuget.org/packages/PivotalServices.WcfClient.Kerberos.Interceptor) | [Github](https://github.com/PivotalServicesOss/kerberos-auth-egress-wcf-client-interceptor) |
+| [Pivotal.RouteService.Auth.Egress.Buildpack](https://github.com/cloudfoundry-community/kerberos-auth-egress-buildpack/releases) | [Github](https://github.com/PivotalServicesOss/kerberos-auth-egress-buildpack) |
+
 #### ASP.NET Application Extensions
 
 | Name | Project Site |
@@ -36,14 +45,6 @@ Below are several useful solutions published by [PivotalServicesOss](https://git
 | [PivotalServices.AspNet.Bootstrap.Extensions.Cf.Logging](http://www.nuget.org/packages/PivotalServices.AspNet.Bootstrap.Extensions.Cf.Logging) | [Github](https://github.com/PivotalServicesOss/aspnet_bootstrap_cloudfoundry_extensions/#enable-cloud-native-logging) |
 | [PivotalServices.AspNet.Bootstrap.Extensions.Cf.Redis.Session](http://www.nuget.org/packages/PivotalServices.AspNet.Bootstrap.Extensions.Cf.Redis.Session) | [Github](https://github.com/PivotalServicesOss/aspnet_bootstrap_cloudfoundry_extensions/#persist-session-to-redis) |
 | [PivotalServices.AspNet.Bootstrap.Extensions.Cf.Actuators](http://www.nuget.org/packages/PivotalServices.AspNet.Bootstrap.Extensions.Cf.Actuators) | [Github](https://github.com/PivotalServicesOss/aspnet_bootstrap_cloudfoundry_extensions/#enabling-cloud-foundry-actuators-and-metrics-forwarders) |
-
-#### Windows Authentication in Cloud Foundry hosted ASP.NET Application
-
-| Name | Project Site |
-| - | - |
-| [PivotalServices.AspNet.Auth.Extensions](https://www.nuget.org/packages/PivotalServices.AspNet.Auth.Extensions) | [Github](https://github.com/PivotalServicesOss/aspnet_auth_extensions) |
-| [PivotalServices.WcfClient.Kerberos.Interceptor](https://www.nuget.org/packages/PivotalServices.WcfClient.Kerberos.Interceptor) | [Github](https://github.com/PivotalServicesOss/kerberos-auth-egress-wcf-client-interceptor) |
-| [Pivotal.RouteService.Auth.Egress.Buildpack](https://github.com/cloudfoundry-community/kerberos-auth-egress-buildpack/releases) | [Github](https://github.com/PivotalServicesOss/kerberos-auth-egress-buildpack) |
 
 #### Want to a collaborator as well?
 
